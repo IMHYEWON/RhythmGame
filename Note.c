@@ -11,7 +11,7 @@
 #include"Screen.h""
 
 #define ALLNOTE 300
-
+//define
 
 
 char* nKeyNone = "                                      ";
